@@ -1,0 +1,50 @@
+body{
+    /*background-color*/
+    background-color: ivory;
+    /*font*/
+    font-family: "Candara";
+    font-size: 21px;
+    /*color*/
+    color: #000000;
+    /*cursor*/
+    cursor: text;
+    /*transition*/
+    transition: all 0.5s ease-in;
+}
+#social{
+    width: 10%;
+    height: 10%;
+    /*layout with text on the side*/
+    float: inline-start;
+    /*margin*/
+    margin-top: 5%;
+    /*color*/
+    color: #000000;
+    /*cursor*/
+    cursor: pointer;
+    /*transition*/
+    transition: all 0.5s ease-in;
+}
+
+.footer, .header{
+    height: auto;
+    width: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    font-size: 0.8em;
+    color: darkgreen;
+    background-color: #333333;
+    padding: 10px;
+    margin-left: 0%;
+    margin-right: 0%;
+    
+}
+#logo{
+    float: inline-start;
+    width: 10%;
+    height: 10%;
+    /*cursor*/
+    cursor: pointer;
+    /*transition*/
+    transition: all 0.5s ease-in;
+}

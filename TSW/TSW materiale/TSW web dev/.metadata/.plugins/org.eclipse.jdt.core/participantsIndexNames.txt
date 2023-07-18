@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+E:\TSW web dev\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1003443773.index
+\SumNumbers\src
+E:\TSW web dev\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3339672057.index
+\Storage\src
+E:\TSW web dev\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1370718838.index
+\FirstServlet\src\main\java
+E:\TSW web dev\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1574337110.index
+\test-app\src
+E:\TSW web dev\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2193178818.index
+\PhotoDynamic\src
